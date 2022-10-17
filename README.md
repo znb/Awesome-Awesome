@@ -31,6 +31,7 @@ A list of all the Awesome I found on Github
 
  * [donnemartin / awesome-aws](https://github.com/donnemartin/awesome-aws)
  * [jassics / awesome-aws-security](https://github.com/jassics/awesome-aws-security)
+ * [AWSome PenTesting Cheatsheet](https://github.com/pop3ret/AWSome-Pentesting/blob/main/AWSome-Pentesting-Cheatsheet.md)
 
 ## Microsoft/Azure Hackery
 
