@@ -14,6 +14,7 @@ A list of all the Awesome I found on Github
  * [Puliczek / awesome-list-of-secrets-in-environment-variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)
  * [RistBS / Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
  * [Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC)
+ * [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
 
 
 ## DFIR
@@ -25,6 +26,7 @@ A list of all the Awesome I found on Github
  * [InQuest / awesome-yara](https://github.com/InQuest/awesome-yara)
  * [milabs / awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits)
  * [TheHive-Project / awesome](https://github.com/TheHive-Project/awesome)
+ * [Awesome Malware Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)
 
 
 ## AWS
