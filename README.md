@@ -15,6 +15,7 @@ A list of all the Awesome I found on Github
  * [RistBS / Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
  * [Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC)
  * [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
+ * [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
 
 
 ## DFIR
