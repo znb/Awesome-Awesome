@@ -28,6 +28,7 @@ A list of all the Awesome I found on Github
  * [milabs / awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits)
  * [TheHive-Project / awesome](https://github.com/TheHive-Project/awesome)
  * [Awesome Malware Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)
+ * [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)
 
 
 ## AWS
