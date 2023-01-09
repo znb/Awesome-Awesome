@@ -16,6 +16,7 @@ A list of all the Awesome I found on Github
  * [Arudjreis / awesome-security-GRC](https://github.com/Arudjreis/awesome-security-GRC)
  * [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
  * [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
+ * [Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS)
 
 
 ## DFIR
@@ -37,6 +38,7 @@ A list of all the Awesome I found on Github
  * [jassics / awesome-aws-security](https://github.com/jassics/awesome-aws-security)
  * [AWSome PenTesting Cheatsheet](https://github.com/pop3ret/AWSome-Pentesting/blob/main/AWSome-Pentesting-Cheatsheet.md)
 
+
 ## Microsoft/Azure Hackery
 
  * [Awesome-Bloodhound](https://github.com/znb/Awesome-Bloodhound)
@@ -46,6 +48,7 @@ A list of all the Awesome I found on Github
  * [globalbao / awesome-azure-policy](https://github.com/globalbao/awesome-azure-policy)
  * [Kyuu-Ji / Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest)
  * [reprise99 / awesome-kql-sentinel](https://github.com/reprise99/awesome-kql-sentinel)
+
 
 ## Web Security
 
