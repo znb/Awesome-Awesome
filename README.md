@@ -17,6 +17,7 @@ A list of all the Awesome I found on Github
  * [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
  * [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
  * [Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS)
+ * [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
 
 
 ## DFIR
