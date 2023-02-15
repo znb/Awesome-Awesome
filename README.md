@@ -32,6 +32,7 @@ A list of all the Awesome I found on Github
  * [Awesome Malware Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)
  * [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)
  * [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
+* [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 
 
 ## AWS
