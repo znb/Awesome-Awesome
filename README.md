@@ -18,7 +18,7 @@ A list of all the Awesome I found on Github
  * [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
  * [Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS)
  * [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
-
+ * [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
 
 ## DFIR
 
@@ -32,7 +32,7 @@ A list of all the Awesome I found on Github
  * [Awesome Malware Techniques](https://github.com/fr0gger/Awesome_Malware_Techniques)
  * [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)
  * [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
-* [Awesome Forensics](https://github.com/cugu/awesome-forensics)
+ * [Awesome Forensics](https://github.com/cugu/awesome-forensics)
 
 
 ## AWS
@@ -72,3 +72,4 @@ A list of all the Awesome I found on Github
  * [herrbischoff / awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)
  * [pluja / awesome-privacy](https://github.com/pluja/awesome-privacy)
  * [lukasz-madon / awesome-concepts](https://github.com/lukasz-madon/awesome-concepts)
+ * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
