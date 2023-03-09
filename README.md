@@ -33,7 +33,7 @@ A list of all the Awesome I found on Github
  * [Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)
  * [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
  * [Awesome Forensics](https://github.com/cugu/awesome-forensics)
-
+ * [randomaccess3/Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
 
 ## AWS
 
@@ -57,6 +57,7 @@ A list of all the Awesome I found on Github
 
  * [awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling)
  * [paragonie / awesome-appsec](https://github.com/paragonie/awesome-appsec)
+ * [jatrost/awesome-kubernetes-threat-detection](https://github.com/jatrost/awesome-kubernetes-threat-detection)
 
 
 ## Programming 
