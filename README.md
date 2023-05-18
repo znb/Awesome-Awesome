@@ -18,9 +18,13 @@ A list of all the Awesome I found on Github
  * [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
  * [Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS)
  * [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
- * [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
  * [Awesome GPT + Security](https://github.com/cckuailong/awesome-gpt-security)
 
+
+## Cloud Security
+
+ * [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security)
+ * [Awesome Cloud Security](https://github.com/iknowjason/Awesome-CloudSec-Labs)
 
 ## DFIR
 
