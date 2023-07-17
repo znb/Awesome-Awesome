@@ -20,6 +20,7 @@ A list of all the Awesome I found on Github
  * [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
  * [Awesome GPT + Security](https://github.com/cckuailong/awesome-gpt-security)
  * [Awesome Sec Challenges](https://github.com/mikeprivette/awesome-sec-challenges)
+ * [Awesome Large Language Model Tools for Cybersecurity Research](https://github.com/tenable/awesome-llm-cybersecurity-tools)
 
 ## Cloud Security
 
