@@ -22,6 +22,7 @@ A list of all the Awesome I found on Github
  * [Awesome Sec Challenges](https://github.com/mikeprivette/awesome-sec-challenges)
  * [Awesome Large Language Model Tools for Cybersecurity Research](https://github.com/tenable/awesome-llm-cybersecurity-tools)
  * [Awesome Security lists for SOC detections](https://github.com/mthcht/awesome-lists/tree/main#security-lists-for-soc-detections)
+ * [Awesome GPTs ](https://github.com/fr0gger/Awesome-GPT-Agents)
 
 ## Cloud Security
 
@@ -42,6 +43,7 @@ A list of all the Awesome I found on Github
  * [awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence)
  * [Awesome Forensics](https://github.com/cugu/awesome-forensics)
  * [Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
+ * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
 
 ## AWS
 
