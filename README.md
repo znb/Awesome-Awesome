@@ -23,6 +23,7 @@ A list of all the Awesome I found on Github
  * [Awesome Large Language Model Tools for Cybersecurity Research](https://github.com/tenable/awesome-llm-cybersecurity-tools)
  * [Awesome Security lists for SOC detections](https://github.com/mthcht/awesome-lists/tree/main#security-lists-for-soc-detections)
  * [Awesome GPTs ](https://github.com/fr0gger/Awesome-GPT-Agents)
+ * [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
 
 ## Cloud Security
 
