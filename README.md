@@ -24,6 +24,7 @@ A list of all the Awesome I found on Github
  * [Awesome Security lists for SOC detections](https://github.com/mthcht/awesome-lists/tree/main#security-lists-for-soc-detections)
  * [Awesome GPTs ](https://github.com/fr0gger/Awesome-GPT-Agents)
  * [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
+ * [Awesome RegEx](https://github.com/slevithan/awesome-regex)
 
 ## Cloud Security
 
