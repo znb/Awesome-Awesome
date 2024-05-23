@@ -25,6 +25,7 @@ A list of all the Awesome I found on Github
  * [Awesome GPTs ](https://github.com/fr0gger/Awesome-GPT-Agents)
  * [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
  * [Awesome RegEx](https://github.com/slevithan/awesome-regex)
+ * [Awesome Password Spraying](https://github.com/puzzlepeaches/awesome-password-spraying)
 
 ## Cloud Security
 
