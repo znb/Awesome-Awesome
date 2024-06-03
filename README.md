@@ -26,6 +26,7 @@ A list of all the Awesome I found on Github
  * [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
  * [Awesome RegEx](https://github.com/slevithan/awesome-regex)
  * [Awesome Password Spraying](https://github.com/puzzlepeaches/awesome-password-spraying)
+ * [Awesome GraphQL Security](https://github.com/Escape-Technologies/awesome-graphql-security)
 
 ## Cloud Security
 
@@ -47,6 +48,7 @@ A list of all the Awesome I found on Github
  * [Awesome Forensics](https://github.com/cugu/awesome-forensics)
  * [Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
  * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
+ * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering)
 
 ## AWS
 
