@@ -27,6 +27,7 @@ A list of all the Awesome I found on Github
  * [Awesome RegEx](https://github.com/slevithan/awesome-regex)
  * [Awesome Password Spraying](https://github.com/puzzlepeaches/awesome-password-spraying)
  * [Awesome GraphQL Security](https://github.com/Escape-Technologies/awesome-graphql-security)
+ * [Awesome Reverse Engineering](https://github.com/HACKE-RC/awesome-reversing)
 
 ## Cloud Security
 
