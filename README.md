@@ -28,11 +28,14 @@ A list of all the Awesome I found on Github
  * [Awesome Password Spraying](https://github.com/puzzlepeaches/awesome-password-spraying)
  * [Awesome GraphQL Security](https://github.com/Escape-Technologies/awesome-graphql-security)
  * [Awesome Reverse Engineering](https://github.com/HACKE-RC/awesome-reversing)
+ * [Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
+
 
 ## Cloud Security
 
  * [Awesome Cloud Security #1](https://github.com/4ndersonLin/awesome-cloud-security)
  * [Awesome Cloud Security #2](https://github.com/iknowjason/Awesome-CloudSec-Labs)
+
 
 ## DFIR
 
@@ -50,6 +53,7 @@ A list of all the Awesome I found on Github
  * [Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
  * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
  * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering)
+
 
 ## AWS
 
