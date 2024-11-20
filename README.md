@@ -54,7 +54,7 @@ A list of all the Awesome I found on Github
  * [Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
  * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
  * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering)
-
+ * [awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing)
 
 ## AWS
 
