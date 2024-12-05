@@ -96,3 +96,4 @@ A list of all the Awesome I found on Github
  * [awesome-concepts](https://github.com/lukasz-madon/awesome-concepts)
  * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
  * [Awesome Apple Notes](https://github.com/devrsi0n/awesome-apple-notes)
+ * [Awesome Bluesky](https://github.com/fishttp/awesome-bluesky)
