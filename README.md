@@ -30,6 +30,7 @@ A list of all the Awesome I found on Github
  * [Awesome Reverse Engineering](https://github.com/HACKE-RC/awesome-reversing)
  * [Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
  * [Awesome LOLBins and Beyond](https://github.com/sheimo/awesome-lolbins-and-beyond)
+ * [Awesome Frida](https://github.com/dweinstein/awesome-frida)
 
 
 ## Cloud Security
