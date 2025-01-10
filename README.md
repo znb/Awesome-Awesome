@@ -31,7 +31,7 @@ A list of all the Awesome I found on Github
  * [Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
  * [Awesome LOLBins and Beyond](https://github.com/sheimo/awesome-lolbins-and-beyond)
  * [Awesome Frida](https://github.com/dweinstein/awesome-frida)
-
+ * [Awesome List of Cybersecurity and AI](https://github.com/ksthk/one)
 
 ## Cloud Security
 
