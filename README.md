@@ -98,3 +98,4 @@ A list of all the Awesome I found on Github
  * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
  * [Awesome Apple Notes](https://github.com/devrsi0n/awesome-apple-notes)
  * [Awesome Bluesky](https://github.com/fishttp/awesome-bluesky)
+ * [Awesome Vim Obsidian](https://github.com/jiyee/awesome-obsidian-vim)
