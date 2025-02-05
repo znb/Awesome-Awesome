@@ -56,6 +56,7 @@ A list of all the Awesome I found on Github
  * [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
  * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering)
  * [awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing)
+ * [Awesome-KAPE](https://github.com/AndrewRathbun/Awesome-KAPE)
 
 ## AWS
 
