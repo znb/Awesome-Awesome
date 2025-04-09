@@ -18,9 +18,7 @@ A list of all the Awesome I found on Github
  * [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
  * [Awesome-Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS)
  * [Awesome Cybersecurity Handbooks](https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks)
- * [Awesome GPT + Security](https://github.com/cckuailong/awesome-gpt-security)
  * [Awesome Sec Challenges](https://github.com/mikeprivette/awesome-sec-challenges)
- * [Awesome Large Language Model Tools for Cybersecurity Research](https://github.com/tenable/awesome-llm-cybersecurity-tools)
  * [Awesome Security lists for SOC detections](https://github.com/mthcht/awesome-lists/tree/main#security-lists-for-soc-detections)
  * [Awesome GPTs ](https://github.com/fr0gger/Awesome-GPT-Agents)
  * [Awesome SOC Analyst](https://github.com/LetsDefend/awesome-soc-analyst)
@@ -28,10 +26,19 @@ A list of all the Awesome I found on Github
  * [Awesome Password Spraying](https://github.com/puzzlepeaches/awesome-password-spraying)
  * [Awesome GraphQL Security](https://github.com/Escape-Technologies/awesome-graphql-security)
  * [Awesome Reverse Engineering](https://github.com/HACKE-RC/awesome-reversing)
- * [Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
  * [Awesome LOLBins and Beyond](https://github.com/sheimo/awesome-lolbins-and-beyond)
  * [Awesome Frida](https://github.com/dweinstein/awesome-frida)
  * [Awesome List of Cybersecurity and AI](https://github.com/ksthk/one)
+
+
+## AI / LLM
+
+ * [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
+ * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+ * [Awesome GPT + Security](https://github.com/cckuailong/awesome-gpt-security)
+ * [Awesome Large Language Model Tools for Cybersecurity Research](https://github.com/tenable/awesome-llm-cybersecurity-tools)
+ * [Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
+
 
 ## Cloud Security
 
@@ -57,6 +64,7 @@ A list of all the Awesome I found on Github
  * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering)
  * [awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing)
  * [Awesome-KAPE](https://github.com/AndrewRathbun/Awesome-KAPE)
+
 
 ## AWS
 
@@ -96,7 +104,6 @@ A list of all the Awesome I found on Github
  * [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line)
  * [awesome-privacy](https://github.com/pluja/awesome-privacy)
  * [awesome-concepts](https://github.com/lukasz-madon/awesome-concepts)
- * [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
  * [Awesome Apple Notes](https://github.com/devrsi0n/awesome-apple-notes)
  * [Awesome Bluesky](https://github.com/fishttp/awesome-bluesky)
  * [Awesome Vim Obsidian](https://github.com/jiyee/awesome-obsidian-vim)
