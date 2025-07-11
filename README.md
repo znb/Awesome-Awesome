@@ -28,7 +28,7 @@ A list of all the Awesome I found on Github
  * [Awesome Reverse Engineering](https://github.com/HACKE-RC/awesome-reversing)
  * [Awesome LOLBins and Beyond](https://github.com/sheimo/awesome-lolbins-and-beyond)
  * [Awesome Frida](https://github.com/dweinstein/awesome-frida)
- * [Awesome List of Cybersecurity and AI](https://github.com/ksthk/one)
+ * [Awesome Cloud Security #2](https://github.com/iknowjason/Awesome-CloudSec-Labs)
 
 
 ## AI / LLM
@@ -38,12 +38,8 @@ A list of all the Awesome I found on Github
  * [Awesome GPT + Security](https://github.com/cckuailong/awesome-gpt-security)
  * [Awesome Large Language Model Tools for Cybersecurity Research](https://github.com/tenable/awesome-llm-cybersecurity-tools)
  * [Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting)
-
-
-## Cloud Security
-
- * [Awesome Cloud Security #1](https://github.com/4ndersonLin/awesome-cloud-security)
- * [Awesome Cloud Security #2](https://github.com/iknowjason/Awesome-CloudSec-Labs)
+ * [Awesome List of Cybersecurity and AI](https://github.com/ksthk/one)
+ * [Aweomse Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
 
 
 ## DFIR
