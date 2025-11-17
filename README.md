@@ -29,6 +29,7 @@ A list of all the Awesome I found on Github
  * [Awesome LOLBins and Beyond](https://github.com/sheimo/awesome-lolbins-and-beyond)
  * [Awesome Frida](https://github.com/dweinstein/awesome-frida)
  * [Awesome Cloud Security #2](https://github.com/iknowjason/Awesome-CloudSec-Labs)
+ * [Awesome Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports)
 
 
 ## AI / LLM
