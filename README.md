@@ -31,6 +31,8 @@ A list of all the Awesome I found on Github
  * [Awesome Cloud Security #2](https://github.com/iknowjason/Awesome-CloudSec-Labs)
  * [Awesome Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports)
  * [Awesome Deception](https://github.com/tracebit-com/awesome-deception)
+ * [Awsome Embedded Systems Vuln Research](https://github.com/IamAlch3mist/Awesome-Embedded-Systems-Vulnerability-Research)
+
 
 ## AI / LLM
 
