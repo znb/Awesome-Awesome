@@ -80,7 +80,6 @@ A list of all the Awesome I found on Github
 
 ## Microsoft/Azure Hackery
 
- * [Awesome Bloodhound](https://github.com/znb/Awesome-Bloodhound)
  * [Awesome Azure security](https://github.com/kmcquade/awesome-azure-security)
  * [Awesome windows domain hardening](https://github.com/PaulSec/awesome-windows-domain-hardening)
  * [Awesome Azure architecture](https://github.com/lukemurraynz/awesome-azure-architecture)
