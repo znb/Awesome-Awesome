@@ -42,6 +42,7 @@ A list of all the Awesome I found on Github
  * [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
  * [Awesome GPTs](https://github.com/fr0gger/Awesome-GPT-Agents)
  * [Awesome LLMs for Vuln Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection)
+ * [Awesome AI Security Tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
 
 
 ## Attack
