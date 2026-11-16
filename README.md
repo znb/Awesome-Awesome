@@ -31,6 +31,11 @@ A list of all the Awesome I found on Github
  * [Awesome Secure Defaults](https://github.com/tldrsec/awesome-secure-defaults)
 
 
+## Operational Technology / ICT
+
+* [Awesome ICS](https://github.com/hslatman/awesome-industrial-control-system-security)
+
+
 ## AI / LLM
 
  * [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
